@@ -4,7 +4,8 @@ A simple and responsive **Password Generator** built using ** HTML, CSS, and Jav
 This tool allows users to generate secure, customizable passwords with options to include uppercase letters, lowercase letters, numbers, and symbols.
 
 ---
-
+🚀 Check out the deployed application here:  
+👉 [Live Demo]( https://password-generator-by-mahi.netlify.app/ )
 ## ✨ Features
 
 - ✅ Generate strong, random passwords
